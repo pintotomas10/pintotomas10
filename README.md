@@ -2,7 +2,7 @@
 I am studying Software Engineering at University of Minho
 
 <div style="text-align: center;">
-  <a href="https://github.com/beatrizlsimoes">
+  <a href="https://github.com/pintotomas10">
     <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 44%; display: inline-block;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&layout=compact&langs_count=7&theme=algolia" alt="Top Languages" style="width: 40%; display: inline-block;">
   </a>
