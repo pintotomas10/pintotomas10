@@ -30,6 +30,8 @@ I am studying Software Engineering at University of Minho
   </a>
    <a href="https://www.freepascal.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/freepascal/freepascal-icon.svg" alt="Pascal" width="40" height="40"/>
+     </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </p>
 
 <picture>
