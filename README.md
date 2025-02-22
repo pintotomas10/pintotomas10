@@ -1,5 +1,5 @@
 # Hello! My name is Tomás Pinto 💙
-#### I am studying Software Engineering at [University of Minho](https://www.uminho.pt/PT)
+#### I am studying Software Engineering at [University of Minho](https://www.uminho.pt/PT) ![image](https://github.com/user-attachments/assets/a65be925-a95e-42d2-9d41-f5cdc6948ffd)
 
 <div style="display: flex; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
@@ -15,7 +15,7 @@
 
 ---
 
-## Languages & Tools:
+### Languages & Tools:
 #### 🔣 Programming Languages:
 ![Pascal](https://img.shields.io/badge/Pascal-0038A8?style=for-the-badge&logo=pascal&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
@@ -27,8 +27,9 @@
 ![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.net&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 
+![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### 🛢️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,7 +50,7 @@
 
 ---
 
-## 💡 Contributions
+### 💡 Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
