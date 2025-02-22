@@ -2,8 +2,8 @@
 #### I am studying Software Engineering at [University of Minho](https://www.uminho.pt/PT)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 250px; width: auto; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&theme=tokyonight" alt="Most Used Languages" style="height: 250px; width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&theme=tokyonight" alt="Most Used Languages" style="height: 200px; width: auto;">
 </div>
 
 ---
@@ -43,6 +43,7 @@
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![KNIME](https://img.shields.io/badge/KNIME-9E6B3E?style=for-the-badge&logo=knime&logoColor=white)
 
 ---
 
