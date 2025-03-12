@@ -2,8 +2,8 @@
 #### I am studying Software Engineering at [University of Minho](https://www.uminho.pt/PT) ![image](https://github.com/user-attachments/assets/a65be925-a95e-42d2-9d41-f5cdc6948ffd)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=tokyonight" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&theme=tokyonight" alt="Most Used Languages" style="height: 200px; width: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=blue-green" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&theme=blue-green" alt="Most Used Languages" style="height: 200px; width: auto;">
 </div>
 
 ---
@@ -26,9 +26,11 @@
 
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512bd4?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
