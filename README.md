@@ -34,7 +34,7 @@
 ![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
-<!-- ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)-->
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 #### 🛢️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,6 +55,11 @@
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+
+<p align="right">
+  <sub>Counting Stiches <img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/stitch-emojis/sticker_4.png?d0cd55b0cf87464a75141515f062be0d&d=200x200" alt="Stitch emoji" width="20"/></sub><br>
+  <img src="https://komarev.com/ghpvc/?username=pintotomas10&style=flat-square&color=lightgrey" alt="Profile views counter"/>
+</p>
 
 ---
 
