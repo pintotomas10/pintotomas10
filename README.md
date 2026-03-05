@@ -2,8 +2,8 @@
 #### I am studying Software Engineering at [University of Minho](https://www.uminho.pt/PT) ![image](https://github.com/user-attachments/assets/a65be925-a95e-42d2-9d41-f5cdc6948ffd)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pintotomas10&show_icons=true&theme=blue-green" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pintotomas10&theme=blue-green" alt="Most Used Languages" style="height: 200px; width: auto;">
+  <img src="https://github-readme-stats-pintotomas10s-projects.vercel.app/api?username=pintotomas10&show_icons=true&theme=blue-green" alt="GitHub Stats" style="height: 200px; width: auto; margin-right: 10px;">
+  <img src="https://github-readme-stats-pintotomas10s-projects.vercel.app/api/top-langs/?username=pintotomas10&theme=blue-green" alt="Most Used Languages" style="height: 200px; width: auto;">
 </div>
 
 ---
