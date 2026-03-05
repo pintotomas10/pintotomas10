@@ -44,188 +44,50 @@
 
 ## 🎓 My college projects and TPCs
 
-<!-- 1º ano - 1º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Literacia Fotográfica da Física à Mensagem</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/LFFM-2223">LFFM</a></td>
-    <td style="text-align:center;">17</td>
-  </tr>
-  <tr>
-    <td>Laboratórios de Informática I</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/LI1-2223">LI1</a></td>
-    <td style="text-align:center;">11</td>
-  </tr>
-</table>
+| 1<sup>st</sup> year - 1<sup>st</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Literacia Fotográfica da Física à Mensagem | [LFFM](https://github.com/pintotomas10/LFFM-2223) | 17 |
+| Laboratórios de Informática I | [LI1](https://github.com/pintotomas10/LI1-2223) | 11 |
 
-<!-- 1º ano - 2º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Laboratórios de Informática II</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/LI2-2223">LI2</a></td>
-    <td style="text-align:center;">16</td>
-  </tr>
-</table>
+| 1<sup>st</sup> year - 2<sup>nd</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Laboratórios de Informática II | [LI2](https://github.com/pintotomas10/LI2-2223) | 16 |
 
-<!-- 2º ano - 1º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Estatística Aplicada</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/EA-2324">EA</a></td>
-    <td style="text-align:center;">13.4</td>
-  </tr>
-  <tr>
-    <td>Laboratórios de Informática III</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/LI3">LI3</a></td>
-    <td style="text-align:center;">11</td>
-  </tr>
-</table>
+| 2<sup>nd</sup> year - 1<sup>st</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Estatística Aplicada | [EA](https://github.com/pintotomas10/EA-2324) | 13.4 |
+| Laboratórios de Informática III | [LI3](https://github.com/pintotomas10/LI3) | 11 |
 
-<!-- 2º ano - 2º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Bases de Dados</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/BD-2324">BD</a></td>
-    <td style="text-align:center;">17</td>
-  </tr>
-  <tr>
-    <td>Programação Orientada aos Objetos</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/POO">POO</a></td>
-    <td style="text-align:center;">16</td>
-  </tr>
-  <tr>
-    <td>Investigação Operacional</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/IO-2324">IO</a></td>
-    <td style="text-align:center;">17</td>
-  </tr>
-  <tr>
-    <td>Redes de Computadores</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/RC-2324">RC</a></td>
-    <td style="text-align:center;">16.83</td>
-  </tr>
-  <tr>
-    <td>Sistemas Operativos</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/SO">SO</a></td>
-    <td style="text-align:center;">12.9</td>
-  </tr>
-</table>
+| 2<sup>nd</sup> year - 2<sup>nd</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Bases de Dados | [BD](https://github.com/pintotomas10/BD-2324) | 17 |
+| Programação Orientada aos Objetos | [POO](https://github.com/pintotomas10/POO) | 16 |
+| Investigação Operacional | [IO](https://github.com/pintotomas10/IO-2324) | 17 |
+| Redes de Computadores | [RC](https://github.com/pintotomas10/RC-2324) | 16.83 |
+| Sistemas Operativos | [SO](https://github.com/pintotomas10/SO) | 12.9 |
 
-<!-- 3º ano - 1º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Laboratórios de Informática IV</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/LI4-2425">LI4</a></td>
-    <td style="text-align:center;">15</td>
-  </tr>
-  <tr>
-    <td>Desenvolvimento de Sistemas de Software</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/DSS-2425">DSS</a></td>
-    <td style="text-align:center;">17.1</td>
-  </tr>
-  <tr>
-    <td>Inteligência Artificial</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/IA-2425">IA</a></td>
-    <td style="text-align:center;">18</td>
-  </tr>
-  <tr>
-    <td>Comunicações por Computador</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/CC">CC</a></td>
-    <td style="text-align:center;">16.6</td>
-  </tr>
-  <tr>
-    <td>Sistemas Distribuídos</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/SD-2425">SD</a></td>
-    <td style="text-align:center;">17</td>
-  </tr>
-</table>
+| 3<sup>rd</sup> year - 1<sup>st</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Laboratórios de Informática IV | [LI4](https://github.com/pintotomas10/LI4-2425) | 15 |
+| Desenvolvimento de Sistemas de Software | [DSS](https://github.com/pintotomas10/DSS-2425) | 17.1 |
+| Inteligência Artificial | [IA](https://github.com/pintotomas10/IA-2425) | 18 |
+| Comunicações por Computador | [CC](https://github.com/pintotomas10/CC) | 16.6 |
+| Sistemas Distribuídos | [SD](https://github.com/pintotomas10/SD-2425) | 17 |
 
-<!-- 3º ano - 2º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Processamento de Linguagens</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/PL2025-A104448">PL</a></td>
-    <td style="text-align:center;">10</td>
-  </tr>
-  <tr>
-    <td>Interface Pessoa-Máquina</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/IPM-2425">IPM</a></td>
-    <td style="text-align:center;">15</td>
-  </tr>
-  <tr>
-    <td>Segurança de Sistemas Informáticos</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/SSI-2425">SSI</a></td>
-    <td style="text-align:center;">10</td>
-  </tr>
-  <tr>
-    <td>Computação Gráfica</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/CG-Projeto">CG</a></td>
-    <td style="text-align:center;">10.8</td>
-  </tr>
-  <tr>
-    <td>Aprendizagem e Decisão Inteligentes</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/ADI-2425">ADI</a></td>
-    <td style="text-align:center;">14.1</td>
-  </tr>
-  <tr>
-    <td>Engenharia Web</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/EngWeb2025-A104448">EW</a></td>
-    <td style="text-align:center;">14</td>
-  </tr>
-</table>
+| 3<sup>rd</sup> year - 2<sup>nd</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Processamento de Linguagens | [PL](https://github.com/pintotomas10/PL2025-A104448) | 10 |
+| Interface Pessoa-Máquina | [IPM](https://github.com/pintotomas10/IPM-2425) | 15 |
+| Segurança de Sistemas Informáticos | [SSI](https://github.com/pintotomas10/SSI-2425) | 10 |
+| Computação Gráfica | [CG](https://github.com/pintotomas10/CG-Projeto) | 10.8 |
+| Aprendizagem e Decisão Inteligentes | [ADI](https://github.com/pintotomas10/ADI-2425) | 14.1 |
+| Engenharia Web | [EW](https://github.com/pintotomas10/EngWeb2025-A104448) | 14 |
 
-<!-- MEI 1º ano - 1º semestre -->
-<table>
-  <tr>
-    <th style="width: 320px; text-align:left;">Cadeira</th>
-    <th style="width: 150px; text-align:center;">Projeto</th>
-    <th style="width: 50px; text-align:center;">Nota</th>
-  </tr>
-  <tr>
-    <td>Aplicações e Serviços de Computação em Nuvem</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/ASCN-2526">ASCN</a></td>
-    <td style="text-align:center;">15.8</td>
-  </tr>
-  <tr>
-    <td>Dados e Aprendizagem Automática</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/DAA">DAA</a></td>
-    <td style="text-align:center;">17.5</td>
-  </tr>
-  <tr>
-    <td>Requisitos e Arquiteturas de Software</td>
-    <td style="text-align:center;"><a href="https://github.com/pintotomas10/ProjectRAS">RAS</a></td>
-    <td style="text-align:center;">17.5</td>
-  </tr>
-</table>
+| MEI - 1<sup>st</sup> year - 1<sup>st</sup> semester | Projeto | Nota |
+| --- | :---: | :---: |
+| Aplicações e Serviços de Computação em Nuvem | [ASCN](https://github.com/pintotomas10/ASCN-2526) | 15.8 |
+| Dados e Aprendizagem Automática | [DAA](https://github.com/pintotomas10/DAA) | 17.5 |
+| Requisitos e Arquiteturas de Software | [RAS](https://github.com/pintotomas10/ProjectRAS) | 17.5 |
 
 ### 💡 Contributions
 <picture>
