@@ -76,7 +76,7 @@
 
 | 3<sup>rd</sup> year - 2<sup>nd</sup> semester | Projeto | Nota |
 | --- | :---: | :---: |
-| Processamento de Linguagens | [PL](https://github.com/pintotomas10/PL2025-A104448) | 10 |
+| Processamento de Linguagens | [PL](https://github.com/pintotomas10/PL2025-A104448) | 12 |
 | Interface Pessoa-Máquina | [IPM](https://github.com/pintotomas10/IPM-2425) | 15 |
 | Segurança de Sistemas Informáticos | [SSI](https://github.com/pintotomas10/SSI-2425) | 10 |
 | Computação Gráfica | [CG](https://github.com/pintotomas10/CG-Projeto) | 10.8 |
